@@ -17,7 +17,7 @@ Davison/January 14, 2011/4159.8
 Davison/March 28, 2012/747.82
 Pertwee/June 08, 2011/293.18
 Davison/August 24, 2011/2667.9
-Capaldi/February 24, 2011/4595.4
+Capaldi/February 24 2011/4595.4
 Davison/April 22, 2011/2345.1
 Pertwee/February 28, 2012/4662.8
 Capaldi/May 10, 2012/1274.7
@@ -32,7 +32,7 @@ Capaldi/August 21, 2011/1729.7
 Davison/July 01, 2012/2838.3
 Pertwee/July 09, 2011/2402.8
 Pertwee/August 17, 2011/552.81
-Davison/August 26, 2012/4103.3
+Davison/August 26, 201/4103.3
 Capaldi/February 28, 2011/2454.8
 Pertwee/February 20, 2011/4948.2
 Pertwee/September 25, 2011/2628.1
@@ -72,7 +72,7 @@ Capaldi/December 18, 2011/2424.5
 Capaldi/January 04, 2012/1903.9
 Capaldi/November 29, 2012/1315.4
 Capaldi/August 01, 2012/785.73
-Capaldi/April 20, 2012/925.83
+Capaldi/April , 2012/925.83
 Pertwee/May 04, 2012/2171.9
 Pertwee/June 07, 2011/941.39
 Pertwee/December 05, 2011/3612.2
